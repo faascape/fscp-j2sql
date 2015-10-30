@@ -3,7 +3,7 @@
    "version": "0.1.0",
    "description": "simple javascript object to sql mapper",
    "keywords": [
-       "http"
+       "sql", "mapper", "orm", "javascript"
    ],
 
    "main": "js2sql.js",
